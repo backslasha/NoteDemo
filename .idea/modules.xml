@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CloudNote.iml" filepath="$PROJECT_DIR$/CloudNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloundnote/cloundnote.iml" filepath="$PROJECT_DIR$/cloundnote/cloundnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycloudnote/mycloudnote.iml" filepath="$PROJECT_DIR$/mycloudnote/mycloudnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloundnote/test.iml" filepath="$PROJECT_DIR$/cloundnote/test.iml" />
+    </modules>
+  </component>
+</project>
